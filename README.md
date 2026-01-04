@@ -32,6 +32,7 @@ I'm pursuing B.E. in Information Technology at Panjab University, specializing i
 - Windows & Linux System Administration
 - API Security Testing
 - OWASP Top 10 & MITRE ATT&CK Framework
+- Software Development
 
 ---
 
