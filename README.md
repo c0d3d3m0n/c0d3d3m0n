@@ -14,40 +14,6 @@ I'm a B.E. Information Technology student at Panjab University with a passion fo
 - 🌱 **Currently Learning**: Advanced exploitation techniques, MITRE ATT&CK framework, and SIEM technologies
 - 📫 **Reach me**: [mayankkumar7371@gmail.com](mailto:mayankkumar7371@gmail.com)
 
----
-
-## 💼 Professional Experience
-
-**Development Intern** @ Platinum Software Pvt. Ltd. (June 2024 – Oct 2024)
-- Developed secure backend systems with Django and PostgreSQL featuring RBAC and input validation
-- Built a result management system with secure authentication and protection against SQL injection and CSRF
-
-**Cybersecurity Intern** @ Edunet Foundation (Jan 2025 – Feb 2025)
-- AICTE-endorsed internship focusing on vulnerability assessment and security scripting
-- Gained hands-on experience with Python/Bash scripting and digital forensics techniques
-
----
-
-## 🚀 Featured Projects
-
-### 🎮 Command and Control (C2) Framework
-**Tech**: FastAPI, RestAPI, SQLite
-- Custom Python-based C2 framework for remote agent management and task execution
-- Designed for offensive security research and red-team operations
-- Simulates real-world attacker infrastructure for adversary emulation
-
-### 🔍 Web Application Reconnaissance Framework
-**Tech**: Django, PostgreSQL, DRF, Celery
-- Comprehensive web-based reconnaissance system combining active and passive scanning
-- Features port scanning, directory brute-forcing, subdomain enumeration
-- Includes passive capabilities like DNS lookups and technology stack detection
-
-### 🛡️ Web Application Firewall (WAF)
-**Tech**: Python
-- Python-based WAF detecting and preventing SQL Injection and XSS attacks
-- Strengthens web application security through intelligent threat detection
-
----
 
 ## 🔧 Technical Arsenal
 
