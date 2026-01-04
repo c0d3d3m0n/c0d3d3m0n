@@ -2,7 +2,7 @@
 
 **Cybersecurity Enthusiast | Python Developer | Red Teamer**
 
-I'm a B.E. Information Technology student at Panjab University with a passion for offensive security, web application security, and building secure backend systems. Currently focused on vulnerability research, penetration testing, and developing security tools for red team operations.
+I'm pursuing B.E. in Information Technology at Panjab University, specializing in offensive security and secure software development. My expertise spans web application security, vulnerability research, and penetration testing, with hands-on experience building production-grade security tools and frameworks for red team operations. I combine strong development skills with deep security knowledge to create robust, security-first solutions.
 
 ---
 
