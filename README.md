@@ -9,10 +9,10 @@ I'm pursuing B.E. in Information Technology at Panjab University, specializing i
 ## 🎯 About Me
 
 - 🔐 **Security Focus**: Bug bounty hunting, penetration testing, and vulnerability assessment
-- 💻 **Development**: Building secure backend systems with Django, FastAPI, and PostgreSQL
-- 🛠️ **Red Teaming**: Developing custom C2 frameworks and reconnaissance tools
-- 🌱 **Currently Learning**: Advanced exploitation techniques, MITRE ATT&CK framework, and SIEM technologies
-- 📫 **Reach me**: [mayankkumar7371@gmail.com](mailto:mayankkumar7371@gmail.com)
+- 💻 **Development**: Build secure backend systems with Django, FastAPI, and PostgreSQL
+- 🛠️ **Red Teaming**: Developed custom C2 frameworks and reconnaissance tools
+- 🌱 **Currently Learning**: Advanced exploitation techniques on Mobile Application and Active Directory, MITRE ATT&CK framework, and SIEM technologies
+- 📫 **Reach me**: [Mail](mailto:mayankkumar7371@gmail.com)
 
 
 ## 🔧 Technical Arsenal
